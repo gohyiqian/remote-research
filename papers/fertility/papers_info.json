@@ -1,0 +1,20 @@
+{
+  "1809.04421v3": {
+    "title": "Fertility Numbers",
+    "authors": [
+      "Colin Defant"
+    ],
+    "summary": "A nonnegative integer is called a fertility number if it is equal to the number of preimages of a permutation under West's stack-sorting map. We prove structural results concerning permutations, allowing us to deduce information about the set of fertility numbers. In particular, the set of fertility numbers is closed under multiplication and contains every nonnegative integer that is not congruent to $3$ modulo $4$. We show that the lower asymptotic density of the set of fertility numbers is at least $1954/2565\\approx 0.7618$. We also exhibit some positive integers that are not fertility numbers and conjecture that there are infinitely many such numbers.",
+    "pdf_url": "https://arxiv.org/pdf/1809.04421v3",
+    "published": "2018-09-11"
+  },
+  "2303.15650v1": {
+    "title": "Rational Link Fertility",
+    "authors": [
+      "Andrew Ducharme"
+    ],
+    "summary": "A knot K is the resultant of a knot H if there exists a minimal crossing diagram D of K such that some crossings of D can be altered to produce H. K is fertile if every prime knot H with crossing number less than c(K) is a resultant of K. K is n-fertile if every prime knot H with crossing number less than n is a resultant of K. We classify the fertility and fertility number of all rational links. This requires the introduction of the analogous concept of link fertility.",
+    "pdf_url": "https://arxiv.org/pdf/2303.15650v1",
+    "published": "2023-03-28"
+  }
+}
